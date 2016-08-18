@@ -42,3 +42,4 @@ This is how to check the length of a sequence, but I can never remember it:
 
 ```
 This is a change.
+This is fun! I am finally using Github! 
